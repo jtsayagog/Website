@@ -9,8 +9,8 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "CV"
+  url = "files/CV-Sayago_research.pdf"
   weight = 20
 
 [[main]]
