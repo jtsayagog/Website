@@ -38,7 +38,7 @@ education:
     institution: Universidad Nacional de Colombia
     year: 2011
   - course: Msc in Management of Complex Systems
-    institution: Universidad Nacional de Colombia
+    institution: Istituto Universiitario di Studi Superiori
     year: 2008
   - course: BA in Economics
     institution: Universidad Nacional de Colombia

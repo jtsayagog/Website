@@ -18,19 +18,19 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "85%"
+  description = ""
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Economics"
-  description = "100%"  
+  description = ""  
   
 [[feature]]
   icon = "map"
   icon_pack = "fas"
   name = "Spatial Analysis"
-  description = "70%"
+  description = ""
 
 # Uncomment to use emoji icons.
 # [[feature]]
