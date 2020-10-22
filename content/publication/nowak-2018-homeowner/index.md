@@ -31,6 +31,10 @@ projects: []
 publishDate: '2020-10-20T20:58:30.969658Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 'This paper investigates whether or not the terrorist attacks of September 11, 2001 (9/11) impacted local preferences for Arab neighbors. We test for changes in preferences using a differences-in-differences approach in a hedonic pricing model. Relative to sales before 9/11, we find properties within 0.1 miles of an Arab homeowner sold at a 1.4% discount (approximately $4133) in the 180 days after 9/11. The results are robust to a number of specifications including time horizon, event date, distance, time, alternative ethnic groups, and the presence of nearby mosques.'
 publication: '*Regional Science and Urban Economics*'
+
+links:
+  - name: Link
+    url: 'https://www.sciencedirect.com/science/article/abs/pii/S0166046217302661'
 ---

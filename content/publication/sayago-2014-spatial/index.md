@@ -30,6 +30,10 @@ projects: []
 publishDate: '2020-10-20T20:58:31.293356Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 'Over the past few decades, Colombia`s education system has been growing in terms of access and coverage. However, this development has taken place mainly in bigger cities, and displays an agglomeration of graduates in tertiary education. The purpose of this article is to test this hypothesis of agglomeration and attempt to find out which factors are associated to this phenomena: quality of life, the effects of income, political safety, and supply of education. Using empirical evidence derived from real data obtained by DANE in the 2005 Census and a variable of violence from the IEPRI, spatial econometric models are set out to understand its dynamics, to stop and reverse this agglomeration, and to create benefits for smaller municipalities.'
 publication: '*Cuadernos de Economı́a*'
+
+links:
+  - name: Link
+    url: 'https://revistas.unal.edu.co/index.php/ceconomia/article/view/43679'
 ---
