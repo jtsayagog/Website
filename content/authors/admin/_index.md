@@ -15,7 +15,7 @@ role: Assistant Professor of Economics
 # Organizations/Affiliations
 organizations:
 - name: Universidad Icesi
-  url: ""
+  url: "www.icesi.edu.co"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Urban/Regional Economics, Applied Econometrics, Spatial Econometrics, Migration, Labor Economics, Health Economics, and Demography.
@@ -38,7 +38,7 @@ education:
     institution: Universidad Nacional de Colombia
     year: 2011
   - course: Msc in Management of Complex Systems
-    institution: Istituto Universiitario di Studi Superiori
+    institution: Istituto Universitario di Studi Superiori
     year: 2008
   - course: BA in Economics
     institution: Universidad Nacional de Colombia
@@ -75,9 +75,9 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors]
 ---
 
 I currently hold an Assistant Professor position at the Department of Economics in Universidad Icesi. My primary fields are: Urban/Regional Economics, Applied Econometrics, Economic Growth, and Migration
