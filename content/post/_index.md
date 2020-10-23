@@ -1,5 +1,5 @@
 ---
-title: Courses
+title: Recent courses
 
 # View.
 #   1 = List

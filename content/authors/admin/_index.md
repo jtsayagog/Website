@@ -25,9 +25,7 @@ interests:
 - Applied Econometrics
 - Spatial Econometrics
 - Migration
-- Labor Economics
 - Health Economics
-- Demography
 
 education:
   courses:
@@ -81,7 +79,6 @@ highlight_name: false
 #- Visitors]
 ---
 
-I currently hold an Assistant Professor position at the Department of Economics in Universidad Icesi. My primary fields are: Urban/Regional Economics, Applied Econometrics, Economic Growth, and Migration
-My secondary fields are: Spatial Econometrics, Labor Economics, Health Economics, and Demography
+I currently hold an Assistant Professor position at the Department of Economics in Universidad Icesi. My fields are: Urban/Regional Economics, Applied Econometrics,  Migration, and Spatial Econometrics
 
 Here you will find my most recent CV, recent publications, working papers,  teaching evaluations, guides, other materials, and contact information.

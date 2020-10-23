@@ -102,13 +102,6 @@ coordinates = {latitude = "3.341447", longitude = "-76.530331"}
 # Directions for visitors to locate you.
 directions = "Enter Building B and take the stairs to Floor 2"
 
-# Office hours
-# A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Friday 11:00 to 12:00", "Saturday 11:00 to 12:00"]
-
-# Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
-
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
