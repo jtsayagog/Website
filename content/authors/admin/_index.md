@@ -54,10 +54,10 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:juantomas.sayago@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/juantsayagog
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=Jl9ngUIAAAAJ
+  link: "https://twitter.com/juantsayagog"
+- icon: "google-scholar"
+  icon_pack: "ai"
+  link: "https://scholar.google.com/citations?user=Jl9ngUIAAAAJ&hl=en"
 - icon: github
   icon_pack: fab
   link: https://github.com/jtsayagog
@@ -65,7 +65,8 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: static/media/CV-Sayago_research.pdf
+  link: static/files/CV-Sayago_research.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "juantomas.sayago@gmail.com"

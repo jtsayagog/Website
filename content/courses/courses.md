@@ -12,6 +12,10 @@ lastmod: 2020-10-20T18:16:49-05:00
 featured: false
 draft: false
 
+
+
+
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -28,4 +32,5 @@ image:
 projects: []
 ---
 
-Courses Icesi: 
+
+   **Courses at Universidad Icesi:**.
