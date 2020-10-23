@@ -4,7 +4,7 @@
 title: "Applied Spatial Analysis"
 event: "Universidad Icesi"
 event_url:
-location:
+location: "Universidad Icesi"
 address:
   street:
   city:
